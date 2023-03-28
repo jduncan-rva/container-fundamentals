@@ -1,3 +1,10 @@
-.header {
-    font-family: Arial;
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    margin: 200px auto;
+    background-color: cornflowerblue;
+    border-radius: 25px;
+    padding: 30px;
 }
