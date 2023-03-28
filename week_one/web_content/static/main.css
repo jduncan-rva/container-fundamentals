@@ -3,8 +3,13 @@ body {
 }
 
 .container {
-    margin: 200px auto;
+    margin: auto;
+    width: 500px;
     background-color: cornflowerblue;
-    border-radius: 25px;
-    padding: 30px;
+    border-radius: 20px;
+    padding: 0px 30px 30px 30px;
+    text-align: center;
+    border: 3px solid;
+    border-color: azure;
+    color: azure;
 }
