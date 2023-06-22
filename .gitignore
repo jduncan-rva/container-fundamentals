@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+harbor.yml
+harbor-online-installer-v2.8.2.tgz
