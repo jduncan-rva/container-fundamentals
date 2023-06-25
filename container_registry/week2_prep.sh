@@ -19,8 +19,7 @@ wget -q $HARBOR_SRC 1> /dev/null
 tar zxf $HARBOR_TARBALL
 
 echo -e "\e[0;32m\n***SECTION 3: Deploying Harbor\n\e[m"
-export EXTERNAL_URL=https://80-jduncanrva-containerfun-ju0vmfuac3f.ws-us100.gitpod.io
-export HOSTNAME=${GITPOD_WORKSPACE_URL:8}
+export EXTERNAL_URL=https://$CODESPACE_NAME-80.preview.app.github.dev
 export HARBOR_PASS=ThisIsASuperSecurePassword
 export DB_PASS=ThisIsASuperSecurePassword
 
