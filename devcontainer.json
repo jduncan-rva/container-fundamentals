@@ -1,8 +1,0 @@
-{
-"name": "container-fundamentals",
-"customizations": {
-    "vscode": {
-      "extensions": ["ms-vsliveshare.vsliveshare-pack"]
-    }
-  }
-}
