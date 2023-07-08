@@ -1,0 +1,4 @@
+services:
+  edge_server:
+    image: registry.containerleaks.com/ops_team/edge_server@sha256:8dad24af18e5f8eceac7af2ee7c37bc5136a7026c0f1d9b20eadea469589bdda
+    
